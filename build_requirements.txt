@@ -1,0 +1,6 @@
+pytest
+setuptools
+wheel
+twine
+requests
+json
