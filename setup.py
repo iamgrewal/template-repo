@@ -6,12 +6,12 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="myproj",
     version="0.0.1",
-    author="Peter Houghton",
-    author_email="pete@investigatingsoftware.co.uk",
+    author="Jatinder Grewal",
+    author_email="jt@grewal.co",
     description="A myproj template",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/phoughton/",
+    url="https://github.com/iamgrewal/",
     packages=setuptools.find_packages(),
     install_requires=[
           'more-itertools',
